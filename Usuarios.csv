@@ -1,0 +1,28 @@
+Name:Surname:Surname1:Surname2:account:Dni:Delegation:Department:Enabled:Password:TurnPassDays:email:Computer:ChangePass:ScheduleFrom:ScheduleTo:EmailList:Path:Groups
+BASILIO:PUJOL GOMIS:PUJOL:GOMIS:BPUJOLG:12345685-H:Gandia:Enfermería:S:Caminas01:15:bgomisp@hgandia.san-gva.es:W10HFB-1:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+MIRIAM:JUAN VALENCIA:JUAN:VALENCIA:MJUANV:12345686-I:Gandia:Enfermería:S:Caminas01:15:mjuanv@hgandia.san-gva.es:W10HFB-2:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+IGNACIO:CHAVES VARGAS:CHAVES:VARGAS:ICHAVESV:12345687-J:Gandia:Enfermería:S:Caminas01:15:ichavesv@hgandia.san-gva.es:W10HFB-3:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+LAURA:ALBA ARIAS:ALBA:ARIAS:LALBAA:12345688-K:Gandia:Enfermería:S:Caminas01:15:lalbaa@hgandia.san-gva.es:W10HFB-4:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+JORGE:CARVALHO PELLICER:CARVALHO:PELLICER:JCARVALHOP:12345689-L:Gandia:Enfermería:S:Caminas01:15:jcarvalhop@hgandia.san-gva.es:W10HFB-5:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+ANTONIO:CAMPOS GALLEGO:CAMPOS:GALLEGO:ACAMPOSG:12345690-M:Gandia:Enfermería:S:Caminas01:15:acamposg@hgandia.san-gva.es:W10HFB-6:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+CLAUDIO:MONCHO AGUILAR:MONCHO:AGUILAR:CMONCHOA:12345691-N:Gandia:Enfermería:S:Caminas01:15:cmonchoa@hgandia.san-gva.es:W10HFB-7:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+PEPE:CHAVES CAMPOS:CHAVES:CAMPOS:PCHAVESC:12345692-O:Gandia:Enfermería:S:Caminas01:15:pchavesc@hgandia.san-gva.es:W10HFB-8:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+SARA:ALBA MONCHO:ALBA:MONCHO:SALBAM:12345693-P:Gandia:Enfermería:S:Caminas01:15:salbam@hgandia.san-gva.es:W10HFB-9:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+ISABEL:CARVALHO ALABAU:CARVALHO:ALABAU:ICARVALHOA:12345694-Q:Gandia:Enfermería:S:Caminas01:15:icarvalhoa@hgandia.san-gva.es:W10HFB-10:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+FRANCISCO:CAMPOS GOMIS:CAMPOS:GOMIS:FCAMPOSG:12345695-R:Gandia:Enfermería:S:Caminas01:15:fcamposg@hgandia.san-gva.es:W10HFB-11:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+BASILIO:MONCHO COELLO:MONCHO:COELLO:BMONCHOC:12345696-S:Gandia:Enfermería:S:Caminas01:15:bmonchoc@hgandia.san-gva.es:W10HFB-12:S:8AM:3PM:N:OU=Usuarios,OU=Enfermaría,OU=Departamentos:Gan_GG_Enfermaría
+MIRIAM:JUAN PUJOL:JUAN:PUJOL:MJUANP:12345697-T:Gandia:Alergología:S:Caminas01:7:mjuanp@hgandia.san-gva.es:W10HFB-13:S:9AM:7PM:N:OU=Usuarios,OU=Argeológia,OU=Departamentos:Gan_GG_Argeológia
+IGNACIO:CHAVES JUAN:CHAVES:JUAN:ICHAVESJ:12345698-U:Gandia:Alergología:S:Caminas01:7:ichavesj@hgandia.san-gva.es:W10HFB-14:S:9AM:7PM:N:OU=Usuarios,OU=Argeológia,OU=Departamentos:Gan_GG_Argeológia
+LAURA:ALBA ALABAU:ALBA:ALABAU:LALBAA:12345699-V:Gandia:Alergología:S:Caminas01:7:lalbaa@hgandia.san-gva.es:W10HFB-15:S:9AM:7PM:N:OU=Usuarios,OU=Argeológia,OU=Departamentos:Gan_GG_Argeológia
+JORGE:CARVALHO GOMIS:CARVALHO:GOMIS:JCARVALHOG:12345700-W:Gandia:Alergología:S:Caminas01:7:jcarvalhog@hgandia.san-gva.es:W10HFB-16:S:9AM:7PM:N:OU=Usuarios,OU=Argeológia,OU=Departamentos:Gan_GG_Argeológia
+ANTONIO:ALABAU VALENCIA:ALABAU:VALENCIA:AALABAUV:12345701-X:Gandia:Alergología:S:Caminas01:7:aalabauv@hgandia.san-gva.es:W10HFB-17:S:9AM:7PM:N:OU=Usuarios,OU=Argeológia,OU=Departamentos:Gan_GG_Argeológia
+CLAUDIO:GOMIS CAMPOS:GOMIS:CAMPOS:CGOMISC:12345702-Y:Gandia:Alergología:S:Caminas01:7:cgomisc@hgandia.san-gva.es:W10HFB-18:S:9AM:7PM:N:OU=Usuarios,OU=Argeológia,OU=Departamentos:Gan_GG_Argeológia
+SUSANA:VALENCIA MONCHO:VALENCIA:MONCHO:SVALENCIAM:12345703-Z:Gandia:Informática:S:Caminas01:7:svalenciam@hgandia.san-gva.es:W10HFB-19:S:7AM:3PM:S:OU=Usuarios,OU=Informática,OU=Departamentos:Gan_GG_Informática,Gan_GG_Dist
+PEDRO:CHAVES ALABAU:CHAVES:ALABAU:PCHAVESA:12345704-A:Gandia:Informática:S:Caminas01:7:pchavesa@hgandia.san-gva.es:W10HFB-20:S:7AM:3PM:N:OU=Usuarios,OU=Informática,OU=Departamentos:Gan_GG_Informática
+PIEDAD:ALBA GOMIS:ALBA:GOMIS:PALBAG:12345705-B:Gandia:Informática:S:Caminas01:7:palbag@hgandia.san-gva.es:W10HFB-19:S:3PM:11PM:N:OU=Usuarios,OU=Informática,OU=Departamentos:Gan_GG_Informática
+MANUEL:CARVALHO VALENCIA:CARVALHO:VALENCIA:MCARVALHOV:12345706-C:Gandia:Informática:S:Caminas01:7:mcarvalhov@hgandia.san-gva.es:W10HFB-20:S:3PM:11PM:N:OU=Usuarios,OU=Informática,OU=Departamentos:Gan_GG_Informática
+JAVIER:CAMPOS VARGAS:CAMPOS:VARGAS:JCAMPOSV:12345707-D:Gandia:Comunicación y prensa:S:Caminas01:15:jcamposv@hgandia.san-gva.es:UDHFB-1:S:9AM:3PM:N:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos:Gan_GG_CyP
+EVA:MONCHO CARVALHO:MONCHO:CARVALHO:EMONCHOC:12345708-E:Gandia:Comunicación y prensa:S:Caminas01:15:emonchoc@hgandia.san-gva.es:UDHFB-2:S:9AM:3PM:N:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos:Gan_GG_CyP
+RODRIGO:CHAVES CAMPOS:CHAVES:CAMPOS:RCHAVESC:12345709-F:Gandia:Comunicación y prensa:S:Caminas01:15:rchavesc@hgandia.san-gva.es:UDHFB-3:S:9AM:3PM:S:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos:Gan_GG_CyP,Gan_GG_Dist
+JOHANN:ALBA CHAVES:ALBA:CHAVES:JALBAC:12345710-G:Gandia:Comunicación y prensa:S:Caminas01:15:jalbac@hgandia.san-gva.es:UDHFB-4:S:9AM:3PM:N:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos:Gan_GG_CyP
+BENITO:APARICIO ROJALES:APARICIO:ROJALES:BAPARICIOR:12345711-H:Gandia:Comunicación y prensa:S:Caminas01:15:baparicior@hgandia.san-gva.es:UDHFB-5:S:9AM:3PM:S:OU=Usuarios,OU=Comunicacion y prensa,OU=Departamentos:Gan_GG_CyP,Gan_GG_Dist
