@@ -1,5 +1,4 @@
-Name:Path
-Departamentos:
+Name:Path Departamentos:
 Enfermaría:OU=Departamentos
 Equipos:OU=Enfermaría,OU=Departamentos
 Usuarios:OU=Enfermaría,OU=Departamentos
