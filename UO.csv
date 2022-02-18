@@ -1,0 +1,14 @@
+Name:Path
+Departamentos:
+Enfermaría:OU=Departamentos
+Equipos:OU=Enfermaría,OU=Departamentos
+Usuarios:OU=Enfermaría,OU=Departamentos
+Argeológia:OU=Departamentos
+Equipos:OU=Argeológia,OU=Departamentos
+Usuarios:OU=Argeológia,OU=Departamentos
+Informática:OU=Departamentos
+Equipos:OU=Informática,OU=Departamentos
+Usuarios:OU=Informática,OU=Departamentos
+Comunicacion y prensa:OU=Departamentos
+Equipos:OU=Comunicacion y prensa,OU=Departamentos
+Usuarios:OU=Comunicacion y prensa,OU=Departamentos
